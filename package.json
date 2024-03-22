@@ -1,0 +1,10 @@
+{
+"description": "serverless wordpress",
+	"scripts": {
+		"build": "diy-pwa build cookingwithgk",
+		"preview": "diy-pwa preview cookingwithgk"
+	},
+	"devDependencies": {
+		"diy-pwa": "latest"
+	}
+}
